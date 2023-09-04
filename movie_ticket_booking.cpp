@@ -91,7 +91,7 @@ void movie_booking::first()
         while(pas_count<3)
         {
             (*this).pass_proctect();
-        if(pass=="KASAW")
+        if(pass=="MMSR")
         {
             (*this).manager();//the manager mode to set the number of seats available for booking
             pas_count=3;
